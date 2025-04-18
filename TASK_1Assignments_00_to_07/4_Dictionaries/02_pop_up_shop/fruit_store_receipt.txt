@@ -1,0 +1,14 @@
+🧾 Receipt - Fruit Store
+Date: 2025-04-05 02:04:47
+-----------------------------------
+Apple        x 2.0   = 3.00 PKR
+Grapes       x 1.0   = 50.00 PKR
+Watermelon   x 3.0   = 240.00 PKR
+Kiwi         x 4.0   = 4.00 PKR
+Banana       x 2.0   = 3.00 PKR
+Mango        x 5.0   = 25.00 PKR
+
+🎉 Discount Applied: -32.50 PKR
+-----------------------------------
+Total Amount: 292.50 PKR
+🛍️ Thank you for shopping with us!
